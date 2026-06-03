@@ -50,7 +50,8 @@ a {
 }
 
 .header.fixed {
-    position: sticky;
+    position: fixed;
+    width: 100%;
     top: -36px;
     z-index: 1;
 }
